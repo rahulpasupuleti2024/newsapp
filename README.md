@@ -17,7 +17,7 @@ HTML and CSS: Markup and styling for the app.\
 Axios: Used for Fetching Data from API.\
 React Router: A library for handling routing within a React application.
 ### Back-end
-Firebase: Firebase is a fully managed backend service that gives you best-in-class infrastructure for your web apps.
+Firebase: Firebase is a fully managed backend and Authorization service that gives you best-in-class infrastructure for your web apps.
 
 
 
