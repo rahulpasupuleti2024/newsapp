@@ -19,6 +19,12 @@ React Router: A library for handling routing within a React application.
 ### Back-end
 Firebase: Firebase is a fully managed backend and Authorization service that gives you best-in-class infrastructure for your web apps.
 
+## Installation and Setup
+To run the News App locally, follow these steps:
+
+Clone the repository:[https://github.com/rahulpasupuleti2024/ecommerce-app/](https://github.com/rahulpasupuleti2024/ecommerce-app/)
+
+
 
 
 
