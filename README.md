@@ -22,7 +22,7 @@ Firebase: Firebase is a fully managed backend and Authorization service that giv
 ## Installation and Setup
 To run the News App locally, follow these steps:
 
-Clone the repository:[https://github.com/rahulpasupuleti2024/newsapp])
+Clone the repository:[https://github.com/rahulpasupuleti2024/newsapp](https://github.com/rahulpasupuleti2024/newsapp)
 
 
 
